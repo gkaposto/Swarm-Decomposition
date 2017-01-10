@@ -11,6 +11,6 @@
 * chb01_01_edfm.mat
 * Swd.p
 
-The Swarm Decomposition Method was proposed in the following publication:
+The Swarm Decomposition method was proposed in the following publication:
 
 **__Apostolidis, Georgios K., and Leontios J. Hadjileontiadis. "Swarm decomposition: A novel signal analysis using swarm intelligence." Signal Processing 132 (2017): 40-50.__**
