@@ -14,3 +14,8 @@
 The Swarm Decomposition method was proposed in the following publication:
 
 **__Apostolidis, Georgios K., and Leontios J. Hadjileontiadis. "Swarm decomposition: A novel signal analysis using swarm intelligence." Signal Processing 132 (2017): 40-50.__**
+
+> Update of code. SwD_v2 is more time efficient.
+
+* example_swd_v2.m -> is an example script
+* bat.asc, bat.m are files contain the example signal used in example_swd_v2.m. The signal has been found in https://ltfat.github.io/doc/signals/bat.html
